@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
+Hola GIT!! Nuevas Funcionalidades :D
+
+=======
 Hola GIT!!
+
+Segunda modificacion
+
+Tercera modificacion
+>>>>>>> Stashed changes
